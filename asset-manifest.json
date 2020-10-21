@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/play/static/css/main.c9bf9973.chunk.css",
-    "main.js": "/play/static/js/main.8fe0b058.chunk.js",
-    "main.js.map": "/play/static/js/main.8fe0b058.chunk.js.map",
+    "main.js": "/play/static/js/main.fe052436.chunk.js",
+    "main.js.map": "/play/static/js/main.fe052436.chunk.js.map",
     "runtime-main.js": "/play/static/js/runtime-main.c12d57e9.js",
     "runtime-main.js.map": "/play/static/js/runtime-main.c12d57e9.js.map",
-    "static/js/2.b0fd72db.chunk.js": "/play/static/js/2.b0fd72db.chunk.js",
-    "static/js/2.b0fd72db.chunk.js.map": "/play/static/js/2.b0fd72db.chunk.js.map",
+    "static/js/2.a31db8c5.chunk.js": "/play/static/js/2.a31db8c5.chunk.js",
+    "static/js/2.a31db8c5.chunk.js.map": "/play/static/js/2.a31db8c5.chunk.js.map",
     "index.html": "/play/index.html",
-    "precache-manifest.0127b0776cb5d77b7ef5f3eae65905fe.js": "/play/precache-manifest.0127b0776cb5d77b7ef5f3eae65905fe.js",
+    "precache-manifest.8a3923b6bbc9e1a7257eeeb66ccbdbe6.js": "/play/precache-manifest.8a3923b6bbc9e1a7257eeeb66ccbdbe6.js",
     "service-worker.js": "/play/service-worker.js",
     "static/css/main.c9bf9973.chunk.css.map": "/play/static/css/main.c9bf9973.chunk.css.map",
-    "static/js/2.b0fd72db.chunk.js.LICENSE.txt": "/play/static/js/2.b0fd72db.chunk.js.LICENSE.txt",
+    "static/js/2.a31db8c5.chunk.js.LICENSE.txt": "/play/static/js/2.a31db8c5.chunk.js.LICENSE.txt",
     "static/media/DefaultCSS.css": "/play/static/media/iCielAltusSerif.8101d8dd.ttf",
     "static/media/CultLeader.jpg": "/play/static/media/CultLeader.d365def8.jpg",
     "static/media/Dire_Wolf.jpg": "/play/static/media/Dire_Wolf.bbe00115.jpg",
@@ -89,10 +89,13 @@
     "static/media/send_icon.svg": "/play/static/media/send_icon.efa3b79f.svg",
     "static/media/sorceress.jpg": "/play/static/media/sorceress.b2a79188.jpg",
     "static/media/spell_caster.jpg": "/play/static/media/spell_caster.067ce848.jpg",
+    "static/media/switch_off.svg": "/play/static/media/switch_off.9558fd38.svg",
+    "static/media/switch_on.svg": "/play/static/media/switch_on.26011c12.svg",
     "static/media/tanner.jpg": "/play/static/media/tanner.a702c3f4.jpg",
     "static/media/tough-guy.jpg": "/play/static/media/tough-guy.fa2d4138.jpg",
     "static/media/troublemaker.jpg": "/play/static/media/troublemaker.21cd33c4.jpg",
     "static/media/uncheck.svg": "/play/static/media/uncheck.b6450c0e.svg",
+    "static/media/unlocked.svg": "/play/static/media/unlocked.63ec1032.svg",
     "static/media/vampire.jpg": "/play/static/media/vampire.d6e9ef83.jpg",
     "static/media/villager.jpg": "/play/static/media/villager.680e75b4.jpg",
     "static/media/voteNo.png": "/play/static/media/voteNo.9818cfb7.png",
@@ -109,8 +112,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c12d57e9.js",
-    "static/js/2.b0fd72db.chunk.js",
+    "static/js/2.a31db8c5.chunk.js",
     "static/css/main.c9bf9973.chunk.css",
-    "static/js/main.8fe0b058.chunk.js"
+    "static/js/main.fe052436.chunk.js"
   ]
 }
